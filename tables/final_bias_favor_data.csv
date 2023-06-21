@@ -1,0 +1,15 @@
+,0/100 bias f,0/100 bias m,25/75 bias f,25/75 bias m,50/50 bias f,50/50 bias m,75/25 bias f,75/25 bias m,100/0 bias f,100/0 bias m
+Atelectasis,1,1,2,0,1,0,4,0,11,0
+Cardiomegaly,11,5,2,2,3,1,7,2,15,2
+Effusion,1,2,1,0,1,0,0,0,4,0
+Infiltration,5,2,18,0,17,0,20,0,20,0
+Mass,6,13,11,0,12,0,10,0,16,0
+Nodule,10,10,17,0,17,0,17,0,20,0
+Pneumonia,9,4,13,0,10,1,13,2,17,1
+Pneumothorax,17,0,19,0,20,0,19,0,20,0
+Consolidation,9,7,12,1,12,0,11,0,15,0
+Edema,2,9,3,7,3,9,2,6,5,9
+Emphysema,14,6,15,0,16,0,20,0,20,0
+Fibrosis,10,8,2,5,4,7,9,4,16,0
+Pleural_Thickening,18,1,19,0,17,0,19,0,19,0
+Hernia,2,16,5,13,4,12,6,10,10,8
